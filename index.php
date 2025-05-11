@@ -5,4 +5,4 @@ $loader = new \Twig\Loader\FilesystemLoader(__DIR__ . '/templates');
 $twig = new \Twig\Environment($loader);
 
 // Render template (no dynamic data yet)
-echo $twig->render('index.html.twig');
+echo $twig->render('index.html.twig', ['title' => 'Voting Page']);
