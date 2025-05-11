@@ -1,0 +1,6 @@
+{
+    "name": "beastscan/widget",
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
