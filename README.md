@@ -13,26 +13,26 @@
 
 ## 🛠️ Setup Instructions
 
-1. **Clone the repository
+1. **Clone the repository**
 
 ```bash
 git clone https://github.com/oussema-sferi/beastscan-mini-app.git
 cd beastscan-mini-app
 ```
 
-2. Install Dependencies
+2. **Install Dependencies**
 
 ```bash
 composer install
 ```
 
-3. Run the server
+3. **Run the server**
 
 ```bash
 php -S localhost:8000
 ```
 
-4. Open in browser
+4. **Open in browser**
 ```bash
 http://localhost:8000/index.php
 ```
